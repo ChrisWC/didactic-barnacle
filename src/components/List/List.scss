@@ -1,0 +1,19 @@
+.List {
+  &__container {
+    &--bare {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      justify-content: flex-start;
+      align-items: center;
+    }
+  }
+  &__content {
+    &--bare {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 274px);
+      width: 100%;
+      justify-content: center;
+    }
+  }
+}

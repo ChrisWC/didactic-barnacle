@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# TODO (Must be responsive)
+
+- Login using spotify
+  - [] Textfield
+    -   required
+  - [] Button (primary -- raised)
+  - [] Title
+- Top tracks (for user)
+  - tracks must be selectable
+  - select tracks -> then get recommendations
+  - List/Table of Tracks
+
+- Recommendations
